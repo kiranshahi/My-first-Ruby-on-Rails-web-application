@@ -1,0 +1,3 @@
+== README
+
+This is the sample project create by following the tutorial at https://prezi.com/krxb6k6a6zuw/copy-of-ruby-on-rails-for-beginners/
